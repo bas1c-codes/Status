@@ -12,7 +12,7 @@ status-website:
   cname: status.beast-bot.ga
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /Status
+  #baseUrl: /Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Beast bot status
   introTitle: "**Beast Bot** is a fun and moderation bot for your discord server with many commands."
