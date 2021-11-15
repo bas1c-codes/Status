@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/beast-bot.ga",
     "slug": "beast-bot-site",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.34%",
     "uptimeDay": "98.18%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.32%",
-    "time": 479,
-    "timeDay": 450,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 489,
+    "timeDay": 465,
+    "timeWeek": 489,
+    "timeMonth": 489,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2021-11-15": 26
     }
@@ -24,19 +24,19 @@
     "url": "https://beast-bot-discord.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/beast-bot-discord.herokuapp.com",
     "slug": "beast-bot",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 218,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "status": "up",
+    "uptime": "97.36%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.36%",
+    "time": 224,
+    "timeDay": 224,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2021-11-15": 0
+      "2021-11-15": 16
     }
   }
 ]
