@@ -4,7 +4,7 @@
     "url": "https://beast-bot.ga",
     "icon": "https://favicons.githubusercontent.com/beast-bot.ga",
     "slug": "beast-bot-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 513,
     "timeMonth": 513,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   },
   {
     "name": "Beast Bot",
