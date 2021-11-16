@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Beast bot status
   introTitle: "**Beast Bot** is a fun and moderation bot for your discord server with many commands."
-  introMessage: make your server a safe and fun server for evreybody. 
+  introMessage: make your server a safe and fun server for everybody. 
   navbar:
     - title: Status
       href: /
