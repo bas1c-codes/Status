@@ -9,7 +9,7 @@ sites:
     url: https://beast-bot-discord.herokuapp.com/
  
 status-website:
-  favicon: https://beast-bot.ga/img/kisspng-portable-network-graphics-computer-icons-transpare-braingoodgames-5c9d9c5093e378.8617067815538330406058.png
+  favicon: https://beast-bot.ga/images/kisspng-portable-network-graphics-computer-icons-transpare-braingoodgames-5c9d9c5093e378.8617067815538330406058.png
   theme: dark
   cname: status.beast-bot.ga
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
