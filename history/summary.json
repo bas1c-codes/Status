@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beast-bot.ga.ico",
     "slug": "beast-bot-site",
     "status": "down",
-    "uptime": "56.21%",
+    "uptime": "56.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.06%",
-    "time": 1196,
+    "uptimeYear": "36.78%",
+    "time": 1194,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1073,
+    "timeYear": 1078,
     "dailyMinutesDown": {
-      "2023-05-09": 82,
+      "2023-05-10": 80,
+      "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -267,12 +268,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 2548,
-    "timeDay": 61,
-    "timeWeek": 146,
-    "timeMonth": 232,
-    "timeYear": 2202,
+    "timeDay": 429,
+    "timeWeek": 204,
+    "timeMonth": 242,
+    "timeYear": 2189,
     "dailyMinutesDown": {
-      "2023-05-09": 82,
+      "2023-05-10": 80,
+      "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -635,8 +637,7 @@
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
-      "2022-05-11": 1440,
-      "2022-05-10": 1440
+      "2022-05-11": 1440
     }
   }
 ]
