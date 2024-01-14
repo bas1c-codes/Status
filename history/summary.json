@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beast-bot.ga.ico",
     "slug": "beast-bot-site",
     "status": "down",
-    "uptime": "38.49%",
+    "uptime": "38.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 969,
+    "time": 990,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-13": 74,
+      "2024-01-14": 80,
+      "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -379,8 +380,7 @@
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
-      "2023-01-15": 1440,
-      "2023-01-14": 1440
+      "2023-01-15": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beast-bot-discord.herokuapp.com.ico",
     "slug": "beast-bot",
     "status": "down",
-    "uptime": "1.40%",
+    "uptime": "1.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 876,
-    "timeDay": 144,
-    "timeWeek": 83,
-    "timeMonth": 180,
+    "timeDay": 319,
+    "timeWeek": 115,
+    "timeMonth": 189,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-01-13": 74,
+      "2024-01-14": 80,
+      "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -763,8 +764,7 @@
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
-      "2023-01-15": 1440,
-      "2023-01-14": 1440
+      "2023-01-15": 1440
     }
   }
 ]
